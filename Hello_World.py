@@ -3,6 +3,8 @@
 
 # In[ ]:
 
+print("Hello World")
+print("Ahora algo mas")
 
-prin("Hello World")
+
 
